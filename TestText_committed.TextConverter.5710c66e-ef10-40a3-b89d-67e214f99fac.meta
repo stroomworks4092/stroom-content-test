@@ -1,7 +1,7 @@
 {
   "type" : "TextConverter",
   "uuid" : "5710c66e-ef10-40a3-b89d-67e214f99fac",
-  "name" : "TestText renamed",
-  "version" : "4e7b0423-d19c-4103-a20f-00682f5790df",
+  "name" : "TestText committed",
+  "version" : "88086da7-664a-4fd5-a368-4adbdf47d183",
   "converterType" : "DATA_SPLITTER"
 }

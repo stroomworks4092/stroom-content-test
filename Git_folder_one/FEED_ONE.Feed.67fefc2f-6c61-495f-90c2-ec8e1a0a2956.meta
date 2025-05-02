@@ -1,0 +1,9 @@
+{
+  "type" : "Feed",
+  "uuid" : "67fefc2f-6c61-495f-90c2-ec8e1a0a2956",
+  "name" : "FEED_ONE",
+  "version" : "dc87a3f9-7a32-41ff-9455-0cc649f8474a",
+  "reference" : false,
+  "streamType" : "Raw Events",
+  "status" : "RECEIVE"
+}

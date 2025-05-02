@@ -1,0 +1,9 @@
+{
+  "type" : "Feed",
+  "uuid" : "a9268ec1-73ad-433e-8bd4-99c48ed23292",
+  "name" : "RG_FEED_TWO",
+  "version" : "e0be5ef9-cc01-4033-912d-1ee0ca945ced",
+  "reference" : false,
+  "streamType" : "Raw Events",
+  "status" : "RECEIVE"
+}
