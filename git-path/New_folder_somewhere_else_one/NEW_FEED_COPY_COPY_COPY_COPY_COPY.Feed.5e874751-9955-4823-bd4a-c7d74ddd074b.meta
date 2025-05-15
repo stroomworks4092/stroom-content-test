@@ -1,0 +1,9 @@
+{
+  "type" : "Feed",
+  "uuid" : "5e874751-9955-4823-bd4a-c7d74ddd074b",
+  "name" : "NEW_FEED_COPY_COPY_COPY_COPY_COPY",
+  "version" : "4ca6c60f-f5eb-409a-abe9-94b71236e095",
+  "reference" : false,
+  "streamType" : "Raw Events",
+  "status" : "RECEIVE"
+}

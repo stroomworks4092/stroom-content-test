@@ -1,0 +1,14 @@
+{
+  "type" : "Feed",
+  "uuid" : "67fefc2f-6c61-495f-90c2-ec8e1a0a2956",
+  "name" : "FEED_ONE",
+  "version" : "2ba8bb62-e57c-4f22-9cf2-6dce04399350",
+  "classification" : "SECRETISH",
+  "encoding" : "UTF-8",
+  "contextEncoding" : "UTF-8",
+  "reference" : false,
+  "streamType" : "Raw Events",
+  "schema" : "",
+  "schemaVersion" : "",
+  "status" : "RECEIVE"
+}
