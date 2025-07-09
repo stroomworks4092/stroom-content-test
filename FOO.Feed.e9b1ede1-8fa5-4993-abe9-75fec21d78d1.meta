@@ -2,8 +2,8 @@
   "type" : "Feed",
   "uuid" : "e9b1ede1-8fa5-4993-abe9-75fec21d78d1",
   "name" : "FOO",
-  "version" : "55b25a08-f627-46d5-a9c8-f5a7c331bb32",
-  "description" : "a",
+  "version" : "87bfc3b3-02c2-423e-8b09-2db55f9fee02",
+  "description" : "ab",
   "reference" : false,
   "streamType" : "Raw Events",
   "status" : "RECEIVE"
