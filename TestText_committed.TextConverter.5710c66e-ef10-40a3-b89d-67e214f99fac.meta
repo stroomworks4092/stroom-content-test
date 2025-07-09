@@ -1,7 +1,0 @@
-{
-  "type" : "TextConverter",
-  "uuid" : "5710c66e-ef10-40a3-b89d-67e214f99fac",
-  "name" : "TestText committed",
-  "version" : "88086da7-664a-4fd5-a368-4adbdf47d183",
-  "converterType" : "DATA_SPLITTER"
-}
